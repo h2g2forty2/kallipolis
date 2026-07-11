@@ -1,4 +1,4 @@
-# Filename: kalli.py - University of Chicago Neurobiology Class Project April 2026
+# Filename: kalli.py
 
 import pandas as pd
 import openai
