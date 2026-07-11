@@ -1,7 +1,6 @@
-# The Kallipolis
+# The Kallipolis code repository for surveying 22 LLMs.
 
 The Neurobiology of Everyday Life and Its Dilemmas
-
 University of Chicago, Spring 2026
 
 This is a Master of Liberal Arts neurobiology class. The term project is to survey public opinion regarding an ethical principle.
@@ -10,8 +9,6 @@ I chose to use internet content moderation to explore the tension between people
 
 Here is the survey: https://forms.gle/TQG2TbsNWEEgbC9Y7 
 
-I distributed my survey to my academic and community networks. I also published it on Reddit. 
-
 Beside humans, I surveyed 22 LLMs. 
 
-This is the code respository for the LLM survey. 
+This is the code repository for the LLM survey. 
